@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "name": "Luna Verleysen - Paintings",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,7 @@
     "versionPublish": "3.9.2",
     "favicon": "",
     "noImageResize": "",
-    "publishType": "local",
+    "publishType": "github",
     "publishPath": "file:///Users/lunaverleysen/Desktop/pub"
   },
   "pages": {
